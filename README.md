@@ -26,9 +26,9 @@ Esse foi um passo importante na minha evolução na área de desenvolvimento, sa
 
   ##  Demonstração
 
-![Lista de tarefas](/images/lista.png)
-![Criar tarefa](/images/criar.png)
-![Editar tarefa](/images/editar.png)
-![Confirmação de exclusão](/images/confirmacao.png)
+![Lista de tarefas](/Imagens/lista.png)
+![Criar tarefa](/Imagens/criar.png)
+![Editar tarefa](/Imagens/editar.png)
+![Confirmação de exclusão](/Imagens/confirmacao.png)
 
 Este projeto faz parte da minha transição de carreira para a área de tecnologia, com foco em desenvolvimento de aplicações utilizando OutSystems.
